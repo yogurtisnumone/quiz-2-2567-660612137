@@ -2,7 +2,7 @@
 import React from "react";
 
 
-export default function PostOwnner({props} : any) {
+export default function PostOwnner(props : any) {
   return (
     <div className="vstack gap-3">
       <div className="d-flex align-items-center gap-3">
